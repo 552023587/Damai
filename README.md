@@ -1,11 +1,11 @@
 # Damai
 大麦购票(仅供学习使用)
-# 准备
+## 准备
 目前只支持Firefox浏览器
 ## 依赖庫
 - selenium 
 - configparser
-# 快速开始
+## 快速开始
 **获取cookie**
 ```
 python login.py
